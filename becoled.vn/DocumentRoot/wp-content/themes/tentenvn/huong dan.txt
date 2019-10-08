@@ -1,0 +1,7 @@
+Hướng dẫn: 
+Vào thư mục /wp-content/themes/tentenvn
+ - Nếu phiên bản php trên hosting đang sử dụng là PHP 5 thì file lấy file functions-5.php sửa thành file functions.php.
+ - Nếu phiên bản php trên hosting đang sử dụng là PHP 5.3 thì file lấy file functions-53.php sửa thành file functions.php.
+ - Nếu phiên bản php trên hosting đang sử dụng là PHP 5.4 thì file lấy file functions-54.php sửa thành file functions.php.
+ - Nếu phiên bản php trên hosting đang sử dụng là PHP 5.5 thì file lấy file functions-55.php sửa thành file functions.php.
+ - Nếu phiên bản php trên hosting đang sử dụng là PHP 5.6 thì dùng file functions.php đã có.

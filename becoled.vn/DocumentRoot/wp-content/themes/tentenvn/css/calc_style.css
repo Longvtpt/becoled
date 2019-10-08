@@ -1,0 +1,54 @@
+#modCalcOutput{height:30px;width:190px;text-align:right;font-size:20px;font-weight:bold;border:1px solid #000;padding-right:2px;}
+
+#modCalc{clear:both;overflow:auto;width:100%;}
+
+.ModCalcRow{clear:both;width:100%;padding-top:0px}
+
+.ModCalcRow input{float:left;margin:0 5px 5px 5px}
+
+
+
+		#calinfoout{
+				background-color:#EEEEEE;
+				width:178px;
+			}
+			.calinfoinner{
+				padding:5px;
+				border-top:1px solid #262626;
+				border-left:1px solid #262626;
+				border-right:2px outset #262626;
+				border-bottom:2px outset #262626;
+			}
+			#calinfoout input{
+				width:29px;
+				height:25px;
+				margin:2px;
+				background-color:#FFF;
+				font-family:arial,helvetica,sans-serif;
+				font-size: 12px;
+				border:1px solid #262626;
+			}
+			#calinfoout #calInfoOutPut{
+				width:160px;
+				font-size:12px;
+				padding:1px;
+				cursor:text;
+				text-align: right;
+				background-color:#B8C6A3;
+				color:#000000;
+			}
+			#calinfoout .calinfonm{
+				color:#FFF;
+				font-weight:bold;
+				background-color:#262626;
+			}
+			#calinfoout .calinfoop{
+				color:#262626;
+				font-weight:bold;
+				background-color:#cccccc;
+			}
+			#calinfoout .calinfoeq{
+				color:#FF0000;
+				font-weight:bold;
+				background-color:#DCADB0;
+			}

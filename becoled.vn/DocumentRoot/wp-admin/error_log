@@ -1,0 +1,30 @@
+[29-Dec-2016 10:45:25 UTC] PHP Fatal error:  Call to undefined function register_setting() in /home/dntenten4top/tentenwordpress2.top/wp-content/themes/temp02/MySettingHome.php on line 58
+[29-Dec-2016 10:46:39 UTC] PHP Fatal error:  Call to undefined function emove_menu_page() in /home/dntenten4top/tentenwordpress2.top/wp-admin/includes/plugin.php on line 79
+[29-Dec-2016 10:46:43 UTC] PHP Fatal error:  Call to undefined function emove_menu_page() in /home/dntenten4top/tentenwordpress2.top/wp-admin/includes/plugin.php on line 79
+[29-Dec-2016 10:46:48 UTC] PHP Fatal error:  Call to undefined function emove_menu_page() in /home/dntenten4top/tentenwordpress2.top/wp-admin/includes/plugin.php on line 79
+[29-Dec-2016 10:46:51 UTC] PHP Fatal error:  Call to undefined function emove_menu_page() in /home/dntenten4top/tentenwordpress2.top/wp-admin/includes/plugin.php on line 79
+[29-Dec-2016 10:46:54 UTC] PHP Fatal error:  Call to undefined function emove_menu_page() in /home/dntenten4top/tentenwordpress2.top/wp-admin/includes/plugin.php on line 79
+[29-Dec-2016 10:46:57 UTC] PHP Fatal error:  Call to undefined function emove_menu_page() in /home/dntenten4top/tentenwordpress2.top/wp-admin/includes/plugin.php on line 79
+[29-Dec-2016 10:47:03 UTC] PHP Fatal error:  Call to undefined function emove_menu_page() in /home/dntenten4top/tentenwordpress2.top/wp-admin/includes/plugin.php on line 79
+[29-Dec-2016 10:47:05 UTC] PHP Fatal error:  Call to undefined function emove_menu_page() in /home/dntenten4top/tentenwordpress2.top/wp-admin/includes/plugin.php on line 79
+[29-Dec-2016 10:47:08 UTC] PHP Fatal error:  Call to undefined function emove_menu_page() in /home/dntenten4top/tentenwordpress2.top/wp-admin/includes/plugin.php on line 79
+[29-Dec-2016 10:47:10 UTC] PHP Fatal error:  Call to undefined function emove_menu_page() in /home/dntenten4top/tentenwordpress2.top/wp-admin/includes/plugin.php on line 79
+[29-Dec-2016 10:47:21 UTC] PHP Fatal error:  Call to undefined function emove_menu_page() in /home/dntenten4top/tentenwordpress2.top/wp-admin/includes/plugin.php on line 79
+[29-Dec-2016 10:47:24 UTC] PHP Fatal error:  Call to undefined function emove_menu_page() in /home/dntenten4top/tentenwordpress2.top/wp-admin/includes/plugin.php on line 79
+[29-Dec-2016 10:49:54 UTC] PHP Fatal error:  Call to undefined function emove_menu_page() in /home/dntenten4top/tentenwordpress2.top/wp-admin/includes/plugin.php on line 79
+[29-Dec-2016 10:51:14 UTC] PHP Fatal error:  Call to undefined function emove_menu_page() in /home/dntenten4top/tentenwordpress2.top/wp-admin/includes/plugin.php on line 79
+[29-Dec-2016 10:51:17 UTC] PHP Fatal error:  Call to undefined function emove_menu_page() in /home/dntenten4top/tentenwordpress2.top/wp-admin/includes/plugin.php on line 79
+[29-Dec-2016 10:51:19 UTC] PHP Fatal error:  Call to undefined function emove_menu_page() in /home/dntenten4top/tentenwordpress2.top/wp-admin/includes/plugin.php on line 79
+[29-Dec-2016 10:51:27 UTC] PHP Fatal error:  Call to undefined function emove_menu_page() in /home/dntenten4top/tentenwordpress2.top/wp-admin/includes/plugin.php on line 79
+[29-Dec-2016 10:52:13 UTC] PHP Fatal error:  Call to undefined function emove_menu_page() in /home/dntenten4top/tentenwordpress2.top/wp-admin/includes/plugin.php on line 79
+[29-Dec-2016 10:52:16 UTC] PHP Fatal error:  Call to undefined function emove_menu_page() in /home/dntenten4top/tentenwordpress2.top/wp-admin/includes/plugin.php on line 79
+[29-Dec-2016 10:52:41 UTC] PHP Fatal error:  Call to undefined function emove_menu_page() in /home/dntenten4top/tentenwordpress2.top/wp-admin/includes/plugin.php on line 79
+[29-Dec-2016 10:52:43 UTC] PHP Fatal error:  Call to undefined function emove_menu_page() in /home/dntenten4top/tentenwordpress2.top/wp-admin/includes/plugin.php on line 79
+[13-Feb-2018 03:55:06 UTC] WP_FFPC:false
+[13-Feb-2018 03:55:39 UTC] WP_FFPC:false
+[13-Feb-2018 03:55:40 UTC] WP_FFPC:false
+[13-Feb-2018 03:55:45 UTC] WP_FFPC:false
+[13-Feb-2018 03:55:46 UTC] WP_FFPC:false
+[13-Feb-2018 03:56:01 UTC] WP_FFPC:false
+[13-Feb-2018 03:56:03 UTC] WP_FFPC:false
+[13-Feb-2018 03:56:39 UTC] Generating advanced-cache.php failed: Global config is empty

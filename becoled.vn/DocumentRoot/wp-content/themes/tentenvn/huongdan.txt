@@ -1,0 +1,29 @@
+Lay developerToken, clientCustomerId
+vao link https://adwords.google.com/home/tools/manager-accounts/
+click vao START USING MANAGER ACCOUNTS (chu mau xanh)
+tao tai khoan moi
+
+
+Lay clientId, clientSecret
+Vao link
+https://console.developers.google.com/apis/
+Ben phai logo googleaps chon Create project -> Dien ten project -> chon Create
+Chon select Create credentials -> OAuth client ID -> Chon loai... -> Chon Create
+
+
+
+(2017-x+n-1)%9+1
+X là số năm
+N là giá trị của năm 2017
+
+After approving the application, enter the authorization code here: 4/yUu5muur466E1ahkf4ik3cpQAvdz4QYbiNQmPQYIP9E
+
+Your refresh token is: 1/q5m9EOx_Z-qyTMjcpHzpW4gAvbU-A6HFFxWXbSxJ4jk
+
+Copy the following lines to your 'adsapi_php.ini' file:
+clientId = "319851604729-uf4379vpal4ceqfdmld0tbovmaja3o44.apps.googleusercontent.com"
+clientSecret = "la6VHeVgyyB3tlboSVa8YAee"
+refreshToken = "1/q5m9EOx_Z-qyTMjcpHzpW4gAvbU-A6HFFxWXbSxJ4jk"
+
+
+4/yUu5muur466E1ahkf4ik3cpQAvdz4QYbiNQmPQYIP9E

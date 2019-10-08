@@ -1,0 +1,5 @@
+[12-Feb-2018 07:28:20 UTC] PHP Warning:  include_once(includes/wc-template-functions.php): failed to open stream: No such file or directory in /home/cmktten92mo/02.trinhks.name.vn/wp-content/plugins/woocommerce/woocommerce.php on line 305
+[12-Feb-2018 07:28:20 UTC] PHP Warning:  include_once(): Failed opening 'includes/wc-template-functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/cmktten92mo/02.trinhks.name.vn/wp-content/plugins/woocommerce/woocommerce.php on line 305
+[12-Feb-2018 07:28:21 UTC] PHP Fatal error:  Class 'WC_Order_Factory' not found in /home/cmktten92mo/02.trinhks.name.vn/wp-content/plugins/woocommerce/woocommerce.php on line 320
+[12-Feb-2018 07:28:21 UTC] PHP Fatal error:  Call to undefined function wc() in /home/cmktten92mo/02.trinhks.name.vn/wp-content/themes/tentenvn/header.php on line 85
+[13-Feb-2018 03:56:03 UTC] PHP Fatal error:  Function name must be a string in /home/cmktten92mo/02.trinhks.name.vn/wp-content/plugins/wp-ffpc/wp-ffpc-class.php on line 1221
